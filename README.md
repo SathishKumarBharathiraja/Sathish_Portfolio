@@ -17,14 +17,8 @@ With 7+ years of experience in operations and business analysis, I specialize in
 
 ## 📊 Portfolio Projects
 
-- 🔸 [**Employee Attrition Dashboard** (Power BI)](https://app.powerbi.com/groups/me/reports/67b19e6c-8007-4834-b7fe-9751fc34ed)  
+- 🔸 [**Employee Attrition Dashboard** (Power BI)](https://app.powerbi.com/groups/me/reports/95196a1a-bb83-4446-aaa7-02e69374b1cf/dccbea863d843d668ef0?experience=power-bi) [**Part 2** (PowerBI)](https://app.powerbi.com/groups/me/reports/95196a1a-bb83-4446-aaa7-02e69374b1cf/8bb8d13a64a7913f9e4b?experience=power-bi)  
   Predictive analysis on employee churn using Power BI with KPIs, Box & Whisker visuals, and drill-down features.
-
-- 🔸 [**Sales KPI Tracker** (Excel)](https://link-to-your-excel-dashboard)  
-  Created a dynamic Excel dashboard for daily operational monitoring and performance tracking across sales regions.
-
-- 🔸 [**Customer Support Delay Analysis**](https://link-to-your-project-or-Notion)  
-  Identified a process delay through custom dashboards and implemented automation via a reader tool that significantly reduced waiting times.
 
 - 🔸 [**Notion Portfolio** – Full Project Gallery](https://www.notion.so/Welcome-to-my-Portfolio-204a172051ab80ddb338e76b2feae3bc)  
   Explore my complete collection of data projects, dashboards, and business case studies.
